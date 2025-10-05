@@ -86,7 +86,7 @@ https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_action_33b48024b3.svg" ,MBC ACTION
 http://213.57.91.138:8000/play/a05l
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_max_33d6507438.svg" ,MBC MAX
-http://arabitv5.com:8000/live/E6eqXNeZaq8v/9wAzEWpJkLXz/1924.ts
+https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
 #EXTINF:-1 tvg-id="MBCDramaHD.us" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_a536283ae5.svg" ,MBC DRAMA
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_1_8592a27973.svg" ,MBC DRAMA+
