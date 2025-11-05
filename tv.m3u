@@ -15,8 +15,7 @@ https://iko-live.akamaized.net/AlyuamTV/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1759704118/ei/1Z_iaIfJPMXAmLAP7sXb-QI/ip/188.195.67.34/id/zP5FhfjOsUA.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr2---sn-4g5ednkl.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSWauzYYPJfOVTw1w5G6o35z-gZR-V_zjdj0H12PB1Unx6Wb2nG6lnnLFN1yuHf-1eduuAH25p3M/spc/hcYD5bRIzGtyF8nWprmU8CxTTkynfNUvVO_u6RprBzQvm7xAFaZzkBtkksVbrP3XOC0jYXV5Qz1egA/vprv/1/playlist_type/DVR/initcwndbps/4968750/met/1759682519,/mh/BA/mm/44/mn/sn-4g5ednkl/ms/lva/mv/m/mvi/2/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51331020,51552689,51565115,51565681,51580968,51593650/mt/1759681998/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRQIhAPNqq0we_QhbZPHYWIaFqkS4XC2cozUyLenATyIyrdstAiAEEq2m48kTbgt-ATyAld4bZJZY26e9KgEUOdWpnWNXRw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgCr-gwNzoL6vwvOUR8GbJw1al6jj1I9xif8aMdz8_XAoCIQCmee_mz0sbwmQRO0Qi5bPlHMnpSmtuobwZkOi_MsQ96w%3D%3D/playlist/index.m3u8
-
+https://www.yallatv.online/star/alikhbaria_syria1.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif",الأردن
 0.0.0.0
 #EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="", الأردنية 
