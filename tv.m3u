@@ -6,7 +6,7 @@ https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.althania.tv/themes/custom/althania/assets/images/logo-colored.svg" ,الثانية
+#EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1398_1.png" ,الثانية
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,حلب اليوم
@@ -16,7 +16,7 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriat
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
 https://www.yallatv.online/star/alikhbaria_syria1.m3u8
 
-#EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://www.alaraby2.com/themes/custom/arabytv/images/logos/LOgo-ATV-CH2nd.svg?v=11" ,العربي 2
+#EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://media0087.elcinema.com/tvguide/1382_1.png" ,العربي 2
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif",الأردن
