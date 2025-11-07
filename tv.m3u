@@ -49,8 +49,7 @@ https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png" ,ياس
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/YASSportsChannel/HLS/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Majid_2020.png" ,ماجد
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://wasmenia.com/_next/image?url=https%3A%2F%2Fstrapi.wasmenia.com%2Fuploads%2FAD_Media_03_4fbe4e1cda.svg&w=828&q=75" ,بينونة
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/Baynounah/HLS/index.m3u8
 #EXTINF:-1 tvg-id="Dubai.il" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" ,دبي
@@ -64,32 +63,31 @@ https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/NoorDubai.png" ,نور دبي
 https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-1.catsbengal.com/mbc1250x100.png" ,MBC 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/874px-MBC2_Logo.svg.png" ,MBC 2
 https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" ,MBC 2HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/874px-MBC2_Logo.svg.png" ,MBC 2HD
 http://213.57.91.138:8000/play/a05k
-#EXTINF:-1 tvg-id="" tvg-logo="" ,Aflam
+#EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?height=auto&width=288&croppingPoint=&version=1&type=webp ,Aflam
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC 1
 
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/874px-MBC2_Logo.svg.png" ,MBC 2
 
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" ,MBC 3
-https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel3/index.m3u8
+
 #EXTINF:-1 tvg-id="MBC 4 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/1200px-MBC_4_TV_Channel_Logo.png" ,MBC 4
 https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel4/index.m3u8
 #EXTINF:-1 tvg-id="MBC 5 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/5_MBC.webp/296px-5_MBC.webp.png" ,MBC 5
 https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel5/index.m3u8
 #EXTINF:-1 tvg-id="MBCAction.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/MBC_Action_Logo.svg/1000px-MBC_Action_Logo.svg.png" ,MBC ACTION
 http://213.57.91.138:8000/play/a05l
-#EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_max_33d6507438.svg" ,MBC MAX
-https://shd-gcp-live.akamaized.net/live/bitmovin-mbc-max/b628d2bbaee0431a17859963edf2975f/index.mpd
-#EXTINF:-1 tvg-id="MBCDramaHD.us" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_a536283ae5.svg" ,MBC DRAMA
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_drama_1_8592a27973.svg" ,MBC DRAMA+
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MBC_Max_Logo.svg/1000px-MBC_Max_Logo.svg.png" ,MBC MAX
+http://185.9.2.18/chid_379/mono.m3u8
+#EXTINF:-1 tvg-id="MBCDramaHD.us" tvg-logo="https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=webp" ,MBC DRAMA
+https://shls-live-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-logo="https://media0087.elcinema.com/tvguide/1131_1.png" ,MBC DRAMA+
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/manifest/video/468p750kbps/video.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" ,MBC BOLLYWOOD
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,MBC VARIETY
@@ -105,6 +103,19 @@ https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/thriller.png?itok=6N6CIcxQ" ,Movies_ThrillerShahid
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" ,MBC 3
+https://tgn.bozztv.com/eshgtv-trn09/ga-mchannel3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Majid_2020.png" ,ماجد
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" ,SPACETOON
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/manifest/video/720p1750kbps/video.m3u8
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
+http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Fajr 3
 http://platform.topuphost.com:8577/live/alfajr3.stream/playlist.m3u8
 
@@ -115,8 +126,8 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" ,الآن 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://aldafrah.ae/wp-content/uploads/2022/08/adf-logo.png" ,الظّفرة
-https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.fujairahtv.ae/images/logonew.png" ,الفجيرة
+https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/source/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fujairahtv.ae/images/menu-logo.png" ,الفجيرة
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://qanawat.taghtia.com/assets/channels/ajman-tv.png" ,عجمان
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
@@ -145,8 +156,7 @@ http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png" ,المنار
 https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiSports-Logo-DMI.png" ,دبي الرياضية 1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
@@ -211,8 +221,8 @@ https://bozztv.com/inim03/live1/giniko_canalalgerie/playlist.m3u8
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/playlist.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
 #EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/echorouk.png", Echorouk  الشروق 
 https://echorouk-live-tv.dzsecurity.net/echo/EchoroukTV/chunks.m3u8|Referer=https://echorouk.dzsecurity.net/embed/echorouk.php
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElBilad.png" , El Bilad البلاد
-
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/ElBilad.png" , هنبعل
+https://tgn.bozztv.com/gin-36bay3/ga-hannibaltv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNy8yMDI1IDg6NTA6MDIgQU0maGFzaF92YWx1ZT0zTjRXRE1qSllRelVubk1nMHREZmZRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/hayattv.png" ,El Hayat الحياة 
 https://elhayat-live-tv.dzsecurity.net/fullres/ElhayatTV_First/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/elwatania.png",El Watania الوطنية
@@ -281,8 +291,7 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_panorama_d091f6cb68.svg" ,PANORAMA FM
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" ,SPACETOON
-https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+
 #EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://rotana.net/logos/khaleejiya.png" ,روتانا خليجية
 https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://rotana.net/logos/drama.png" ,روتانا دراما
