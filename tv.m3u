@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
-#EXTINF:-1,مسلسلات
-https://raw.githubusercontent.com/usersawa/Tv/refs/heads/main/series.m3u
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.com.lb/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana لـــنـــا
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
