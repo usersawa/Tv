@@ -143,7 +143,7 @@ https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nbn.png" ,NBN
 http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/aljadeed.png" ,الجديد
-http://185.9.2.18/chid_391/mono.m3u8
+https://vod3.cf.dmcdn.net/sec2(sN2DXLrsDD9ZVaqmYetpbINrjcHJvmFQlroa_cj5aEkfT9x4tW4enfU1HIA1UCGlScwpwGpNDM9w23Zu_YDguQvneoaMPmeLQYOAjybV1I0sfgFAtm64QpF38FM7XH8CcMhYKrD1LxyGu-dvmxGOeK2EgzyGQWzCFdVwnv8ihoc)/video/397/533/485335793_mp4_h264_aac_hq.m3u8#cell=cf30
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZB8x8TP/futlbn.png",FUTURE LBN
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleliban.com.lb/assets/img/telelogo.png" ,تلفزيون لبنان
