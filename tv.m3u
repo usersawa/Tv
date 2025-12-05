@@ -10,11 +10,11 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,جرح الغزالة
-https://caspian7.cdn.asset.aparat.com/aparat-video/cfa1f50ef1fea7ccb86f06e0d79a06f054284074-240p.apt/chunk.m3u8?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI1YjgzYWYxZWRkZmUyMGY3ZjViMzJlZDc4M2YzNzVjIiwiZXhwIjoxNzY0OTY2MDg4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.iPSuj0dCJJyg0dxmPtQCvNO1NBuuHI6JJeqxlP4J5hw
+https://persian8.cdn.asset.aparat.com/aparat-video/7ee0a17cfd2f3d3405058da25253c73f54284129-240p.apt/chunk.m3u8?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImUyMzViNzlhMzhjNWUxOGQ2MGY0MjkxNGE5YTJlNDkwIiwiZXhwIjoxNzY0OTc0OTk4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.hdBZ9Ey_cmtsTfTvwj9APOx1fISDEBGB7LMfEkdNwTU
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
-http://127.0.0.1:8080/video?file=test.m3u
+http://127.0.0.1:8080/video?file=test.mp4
 
 #EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://media0087.elcinema.com/tvguide/1382_1.png" ,العربي 2
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
