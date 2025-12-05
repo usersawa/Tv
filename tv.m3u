@@ -10,7 +10,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,جرح الغزالة
-http://127.0.0.1:8080/video?file=test.mp4
+https://caspian7.cdn.asset.aparat.com/aparat-video/cfa1f50ef1fea7ccb86f06e0d79a06f054284074-240p.apt/chunk.m3u8?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6ImI1YjgzYWYxZWRkZmUyMGY3ZjViMzJlZDc4M2YzNzVjIiwiZXhwIjoxNzY0OTY2MDg4LCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.iPSuj0dCJJyg0dxmPtQCvNO1NBuuHI6JJeqxlP4J5hw
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
