@@ -14,7 +14,7 @@ https://persian10.cdn.asset.aparat.com/aparat-video/b6df38245248c8f25584303a5d2e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
-http://192.168.0.9:8080/movie.mp4
+https://raw.githubusercontent.com/usersawa/Tv/refs/heads/main/service
 
 #EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://media0087.elcinema.com/tvguide/1382_1.png" ,العربي 2
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
