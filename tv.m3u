@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=rEKifG2XUZg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
-https://games2.elahmad.xyz/tv769_www.elahmad.com_alikhbaria_syria/tracks-v1a1/mono.m3u8?token=07e06d5a3900b986613e640abb46af61d70aebcf-8901e855a107a9e1204dff6aa59fd660-1765303507-1765292707
+https://www.elahmad.com/tv/alikhbariya-syria.php
 
 #EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://media0087.elcinema.com/tvguide/1382_1.png" ,العربي 2
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
@@ -91,7 +91,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" ,MBC BOLLYWOOD
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,MBC VARIETY
-
+https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc_variety
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" ,MBC IRAQ 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1373_1.png" ,MixONE
 https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
