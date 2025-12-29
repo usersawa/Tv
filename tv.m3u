@@ -107,6 +107,33 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo_23.svg" ,أجيال 
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Aflam_1
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/351
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Aflam_2
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/352
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Safwa
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/163
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Musalslat
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/189
+#EXTINF:-1 tvg-id="" tvg-logo="" ,action
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/190
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Osn aflam
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/192
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Osn movie
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/197
+#EXTINF:-1 tvg-id="" tvg-logo="" ,osn
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/205
+#EXTINF:-1 tvg-id="" tvg-logo="" ,osn1
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/206
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Osn action
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/207
+#EXTINF:-1 tvg-id="" tvg-logo="" ,osn2
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/209
+#EXTINF:-1 tvg-id="" tvg-logo="" ,osn3
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/214
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Osn Now
+http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/224
+
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" ,MBC 3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 
