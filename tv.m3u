@@ -133,7 +133,18 @@ http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/209
 http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/214
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Osn Now
 http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/224
-
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Sadalarz-Leb
+http://iptv.icsnleb.com:25461/12/12/1034
+#EXTINF:-1 tvg-id="" tvg-logo="" ,VOD-Music
+http://iptv.icsnleb.com:25461/12/12/36
+#EXTINF:-1 tvg-id="" tvg-logo="" ,VOD-Movies
+http://iptv.icsnleb.com:25461/12/12/55
+#EXTINF:-1 tvg-id="" tvg-logo="" ,VOD-Leb
+http://iptv.icsnleb.com:25461/12/12/37
+#EXTINF:-1 tvg-id="" tvg-logo="" ,VOD-Cinema
+http://iptv.icsnleb.com:25461/12/12/59
+#EXTINF:-1 tvg-id="" tvg-logo="" ,VOD-Series
+http://iptv.icsnleb.com:25461/12/12/49
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" ,MBC 3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 
