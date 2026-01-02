@@ -15,6 +15,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767405144/ei/-
 #EXTINF:-1 tvg-id="" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/09/1-400x197.png" ,قناة برايم السورية تجربية
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767410039/ei/FzVYafemB_m46dsP7tDM8Qs/ip/188.195.67.34/id/0YUNT7SvULc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3AnArHfb-A9mbHvpVzgPwei2Gn0phOPNgl5Pbyneu9ahz5idQXEvJf6ZyyHemJIUEZDwi62-r_V/spc/wH4Qq-bL3DYFX79Zw4yeFBBXPjSPCeI5903OLFOT5_bLZDkoj_pqv3quJI6XQqKVS2Y/vprv/1/go/1/ns/Gdnhz7a1szYoVAMCIw3A6kAR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/BMivYH1Y40h_s3YcB-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALga9_aW1uqtzq7OEk8b8FiFRY7r5VFhLETGMvYP35rPAiBH6nlfPo4z1F0Gb6VyM3Yzn_M9Pdi8mWClROsKQGWKJw%3D%3D/file/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="SY| SYRIA SATELLITE TV" tvg-logo="http://91.208.162.66/syrian-satellite-channel-sy.png" group-title="ARABIC | OTT",SY| ANA SYRIA  TV
+http://vod4k.cc:8080/3143831650555793/2862498644/284912
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 http://vod4k.cc:8080/3143831650555793/2862498644/352229
