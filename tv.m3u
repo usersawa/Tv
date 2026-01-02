@@ -9,8 +9,13 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1398_1.png" ,الثانية
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,قناة تجريبة 
-http://192.168.0.9:8080/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,قناة  يوتيوب الإخبارية  
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767405144/ei/-CFYaZOWJ7zGi9oP25n3SA/ip/188.195.67.34/id/ERpLdYOMyJU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3DXyX1Zdsw6SIWKuD_MKugIJ6zbuHlEoLDKiibRu7Po6cMZq0IvVtpbW2m7mEZTBjeEAEnIScpc/spc/wH4Qq0evWZoDsP6VeqG09b8j1LHqNLOUCTjexgpjl4s0W4G-yoZG7YcLbkQozHGm3Qc/vprv/1/go/1/ns/iTnlFbJWkXpY-wn05eGhFj4R/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/n/k4giR0iB9d3jprofCm/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhALvIXA_ro8TPmEIsAZ1mfboOlKrICc-cjoEuSALernL-AiEAxTJUe_ry3IR8OgbAVbpg9CbM86QKxQ0oVCJYCBvlfAw%3D/file/index.m3u8
+
+EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2022/10/50.png" ,قناة برايم السورية تجربية
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767410039/ei/FzVYafemB_m46dsP7tDM8Qs/ip/188.195.67.34/id/0YUNT7SvULc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AYUSA3AnArHfb-A9mbHvpVzgPwei2Gn0phOPNgl5Pbyneu9ahz5idQXEvJf6ZyyHemJIUEZDwi62-r_V/spc/wH4Qq-bL3DYFX79Zw4yeFBBXPjSPCeI5903OLFOT5_bLZDkoj_pqv3quJI6XQqKVS2Y/vprv/1/go/1/ns/Gdnhz7a1szYoVAMCIw3A6kAR/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/n/BMivYH1Y40h_s3YcB-/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALga9_aW1uqtzq7OEk8b8FiFRY7r5VFhLETGMvYP35rPAiBH6nlfPo4z1F0Gb6VyM3Yzn_M9Pdi8mWClROsKQGWKJw%3D%3D/file/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Animated-Flag-Syria-2.gif",سوريا
 http://vod4k.cc:8080/3143831650555793/2862498644/352229
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
