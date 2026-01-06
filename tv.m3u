@@ -18,6 +18,9 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1767474517/ei/9
 #EXTINF:-1 tvg-id="" tvg-name="SY| SYRIA SATELLITE TV" tvg-logo="http://91.208.162.66/syrian-satellite-channel-sy.png" group-title="ARABIC | OTT",SY| ANA SYRIA  TV
 http://vod4k.cc:8080/3143831650555793/2862498644/284912
 
+#EXTINF:-1 tvg-id="" tvg-name="SY| SYRIA SATELLITE TV" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2021/01/logo-موقع.png" group-title="ARABIC | OTT",SY| حلب اليومTV
+https://mn-nl.mncdn.com/halabtoday/livestream/chunklist_w428199409.m3u8
+
 #EXTINF:-1 tvg-logo="https://ssadtv.net/wp-content/uploads/2025/02/cropped-ssadtv_logo-192x192.png",قناة صاد 
 https://ssadtv.ddns.net/live/saad/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
