@@ -9,8 +9,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1398_1.png" ,الثانية
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,قناة  يوتيوب الإخبارية
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,قناة Syriaone
+https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/09/1-400x197.png" ,قناة برايم السورية تجربية
 
 
