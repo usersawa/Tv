@@ -49,9 +49,9 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 #EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",الإمارات العربية المتحدة
 0.0.0.0
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
-https://raw.githubusercontent.com/usersawa/Tv/refs/heads/main/merged.m3u8
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/219391
 #EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89e570.png" ,الإمارات
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157953
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",test
 https://video-fra5-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQMRF2rAD0J_yhRc-phsnjgAjvvMLXxoJKseMWAyfalPl-y5FL4or_IaZtfcyNU3eYqnpfoZye28w3jxMTiBOfQTprxD7kFHGwdSq3w8Bg.mp4?_nc_cat=109&_nc_sid=8bf8fe&_nc_ht=video-fra5-2.xx.fbcdn.net&_nc_ohc=I3tZ-7OI2doQ7kNvwHPXhZR&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6MTQxMzcyNTQxNjkyOTU0OCwiYXNzZXRfYWdlX2RheXMiOjAsInZpX3VzZWNhc2VfaWQiOjEwMTIxLCJkdXJhdGlvbl9zIjoxODEyLCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_gid=m_EsUNIevqRxSG22FOhxQA&_nc_zt=28&oh=00_Afm6o8GPw1Un7bU7kJ61aVWVX-CM_7Hc0BJWnlOnLeXK6g&oe=695AD83D&bitrate=282761&tag=sve_sd
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png" ,أبو ظبي الرياضية 2
@@ -118,6 +118,8 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo_23.svg" ,أجيال 
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,Cima tv
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/22896
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Aflam_1
 http://order.servepics.com:8080/jFqbplMwLC/ODG2hhNOOy/351
@@ -223,7 +225,7 @@ https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/nbn.png" ,NBN
 http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/lb/aljadeed.png" ,الجديد
-http://185.9.2.18/chid_391/mono.m3u8
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/219367
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZB8x8TP/futlbn.png",FUTURE LBN
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.teleliban.com.lb/assets/img/telelogo.png" ,تلفزيون لبنان
@@ -235,6 +237,10 @@ https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 http://185.9.2.18/chid_312/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png" ,المنار
 https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,LBC 
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/219380
+#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,LBC International 
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/219378
 
 
 
