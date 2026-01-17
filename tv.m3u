@@ -93,7 +93,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab
 http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MBC_Max_Logo.svg/1000px-MBC_Max_Logo.svg.png" ,MBC MAX
 http://185.9.2.18/chid_379/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,MBC VARIETY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/01/MBC-Variety.png" ,MBC VARIETY
 http://premiumsorg.org:8789/cabrel682/94778/120304
 
 #EXTINF:-1 tvg-id="MBCDramaHD.us" tvg-logo="https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=webp" ,MBC DRAMA
@@ -102,7 +102,7 @@ https://shls-live-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/in
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/manifest/video/468p750kbps/video.m3u8
 #EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_bollywood_d2bef5e158.svg" ,MBC BOLLYWOOD
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,MBC VARIETY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/01/MBC-Variety.png?fit=1000,1000&ssl=1" ,MBC VARIETY
 https://www.elahmad.com/tv/mobiletv/glarb.php?id=mbc_variety
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_iraq_716ec2b8be.svg" ,MBC IRAQ 
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1373_1.png" ,MixONE
