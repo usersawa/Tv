@@ -76,8 +76,8 @@ https://dmiffthftl.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/874px-MBC2_Logo.svg.png" ,MBC 2
 http://185.9.2.18/chid_375/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/874px-MBC2_Logo.svg.png" ,MBC 2HD
-https://games1.elahmad.xyz/tv769_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=41ed22b6ca53923501817de2507fee4048a6e2d0-1707108b59028fd3dc7123f69a9e61a6-1765302764-1765291964
+#EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/files/ur/20647/png/mbc2-01.png" ,MBC 2HD
+http://edge.19741977.network:8080/98:06:3C:5E:34:E5/yOR2rCjuyEA0/110104
 #EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?height=auto&width=288&croppingPoint=&version=1&type=webp ,Aflam
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC 1
