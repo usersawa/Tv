@@ -24,6 +24,9 @@ https://mn-nl.mncdn.com/halabtoday/livestream/chunklist_w428199409.m3u8
 https://ssadtv.ddns.net/live/saad/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
 https://www.elahmad.com/tv/alikhbariya-syria.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://b1681013.smushcdn.com/1681013/wp-content/uploads/2025/10/cropped-cropped-logo-1-300x300.png" ,قناة اليوم 
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
+
 
 #EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://media0087.elcinema.com/tvguide/1382_1.png" ,العربي 2
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
