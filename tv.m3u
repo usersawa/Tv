@@ -26,22 +26,24 @@ https://ssadtv.ddns.net/live/saad/playlist.m3u8
 https://www.elahmad.com/tv/alikhbariya-syria.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1681013.smushcdn.com/1681013/wp-content/uploads/2025/10/cropped-cropped-logo-1-300x300.png" ,قناة اليوم 
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/071/radio-damascus-rdyw-dmshq.1bc8e9dc.png" ,Damascus tv
+https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://media0087.elcinema.com/tvguide/1382_1.png" ,العربي 2
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif",الأردن
-0.0.0.0
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 #EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="", الأردنية 
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jrtv.gov.jo/static/media/spor-live-channel.151799bd.png" ,Jordan Drama
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Drama/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" ,رؤيـــا
 https://roya.tv/live-stream/1
+#EXTINF:-1 tvg-id="" tvg-logo="" ,رؤيا مطبخ
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R927/images/channels/VxKuzwvG5TBvqXI.png" , رؤيا دراما
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R927/images/channels/GACtHgmN6t9X6RO.png" ,رؤيا كوميدي 
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" ,المملكة
@@ -114,6 +116,7 @@ https://ml-pull-hwc.myco.io/MixONE/hls/index.m3u8
 https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1371_1.png" ,MixTV
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQGhpRrNcjX4Tjmsw5k6q36n8qSYtPHThCV5SunbrGAYfhyO_n9kRBoToTTeA5ZJCHfUy72W1WHNgbWwpxMGXT2TRq8V10S99Z6GsHiihEbNjUeHbuizrOf3b0MFMMszqcbJSDB5BvxRpC/s200/M-Net+Action+logo+Oct+2010.jpg" ,Movies_Action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/thriller.png?itok=6N6CIcxQ" ,Movies_ThrillerShahid
