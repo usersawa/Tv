@@ -32,6 +32,9 @@ https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://media0087.elcinema.com/tvguide/1382_1.png" ,العربي 2
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/YzmXNGuw52dnkMRo6erZC3p_HjOmhD-Co6erKerwQjeaKC3u5Bmp8k1pZwum29snn8HMuBLCWg=s48-c-k-c0x00ffffff-no-rj" ,أناشيد دينية
+https://m.youtube.com/watch?v=aMg36VTyyo4&pp=ygUR2LnZhdin2K8g2LHYp9mF2Yo%3D
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif",الأردن
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
 #EXTINF:-1 tvg-id="Jordan1.il" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="", الأردنية 
