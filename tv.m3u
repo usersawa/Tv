@@ -897,4 +897,12 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u
 #EXTINF:-1 tvg-id="France24.svn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png",FRANCE 24 EN
 https://new.cache-stream.workers.dev/stream/UCQfwfsi5VrQ8yKZ-UWmAEFg/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="#" ,قصة ذو القرنين
+https://m.youtube.com/watch?v=4bDB0LSszS4
+#EXTINF:-1 tvg-id="" tvg-logo="#" ,قصة سيدنا إبراهيم
+https://m.youtube.com/watch?v=zwchtuDnYSs
+#EXTINF:-1 tvg-id="" tvg-logo="#" ,قصة آل ياسين
+https://m.youtube.com/watch?v=ressrA2kN-A
+#EXTINF:-1 tvg-id="" tvg-logo="#" ,قصة سيدنا موسى والخضر
+https://m.youtube.com/watch?v=OuRMuZ2wa5M
 
