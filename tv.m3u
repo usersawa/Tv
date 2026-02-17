@@ -12,7 +12,9 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriat
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.syriaone.tv/SyriaONETVB.png" ,قناة Syriaone
 https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/09/1-400x197.png" ,قناة برايم السورية تجربية
-https://m.youtube.com/watch?v=8ifjRA3Crvw&fbclid=IwVERDUAP9D7hleHRuA2FlbQIxMABzcnRjBmFwcF9pZAwzNTA2ODU1MzE3MjgAAR7hGrxhlPZCA0fCPafG5RJhxNtPEGoaDOxgbw4oF75FxpV_G1tY3-oiAzJQ0w_aem_pte6_ki1H6ZiY6_hwg6U8A
+https://m.youtube.com/watch?v=Dvlv0gbk2hw&pp=uAQw
+#EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
+https://m.youtube.com/watch?v=SFrsxUDxrqc&pp=ygUV2KfYrtio2KfYsSDZhdio2KfYtNix
 
 #EXTINF:-1 tvg-id="" tvg-name="SY| SYRIA SATELLITE TV" tvg-logo="http://91.208.162.66/syrian-satellite-channel-sy.png" group-title="ARABIC | OTT",SY| ANA SYRIA  TV
 
@@ -185,7 +187,8 @@ http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Tom and Jerry Tv
 https://archive.org/serve/tomandjerry_201509/%D9%81%D9%8A%D9%84%D9%85%20%D9%83%D8%B1%D8%AA%D9%88%D9%86%20%D8%AA%D9%88%D9%85%20%D9%88%D8%AC%D9%8A%D8%B1%D9%8A%20%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%D8%AA%D9%88%D9%85%20%D9%81%D9%8A%20%D8%AE%D9%8A%D8%A7%D9%85%20%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A9.mp4
-
+#EXTINF:-1 tvg-id="" tvg-logo="" ,Tom and Jerry Tv2
+https://m.youtube.com/watch?v=rEKifG2XUZg&pp=ygUj2YPYsdiq2YjZhiDYqNirINmF2KjYp9i02LEg2KfZhNin2YY%3D
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Test Now
 https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:mm5vids/2019-01-23/studioORPDA.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://sbauae.faulio.com/storage/mediagallery/9e/0c/small_1b9d05f172d654c355754975d18cc55255223f85.png" ,كلباء
