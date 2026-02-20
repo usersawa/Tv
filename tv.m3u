@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="http" ,أهلا رمضان
-https://m.youtube.com/watch?v=7VnjDJo9wzQ&pp=ygUi2KjYsdmG2KfZhdisINix2YXYttin2YYg2YXYqNin2LTYsQ%3D%3D
+https://m.youtube.com/watch?v=0Nj23d4P2GQ&pp=ygUy2KfYsNin2YYg2KfZhNis2KfZhdi5INin2YTYp9mF2YjZiiDZgdmKINix2YXYttin2YY%3D
 
 
 
@@ -19,6 +19,9 @@ https://live.syriaone.tv/live/syriaone.m3u8
 https://m.youtube.com/watch?v=Dvlv0gbk2hw&pp=uAQw
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
 https://m.youtube.com/watch?v=SFrsxUDxrqc&pp=ygUV2KfYrtio2KfYsSDZhdio2KfYtNix
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://test.com" ,قناة عاج
+https://m.youtube.com/watch?v=13jWguiVPrg&pp=uAQw
 
 #EXTINF:-1 tvg-id="" tvg-name="SY| SYRIA SATELLITE TV" tvg-logo="http://91.208.162.66/syrian-satellite-channel-sy.png" group-title="ARABIC | OTT",SY| ANA SYRIA  TV
 
