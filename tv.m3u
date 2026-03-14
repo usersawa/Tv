@@ -11,6 +11,9 @@ http://tvappapk@bar52985.neo-cdn1.me/othman26safi/e1da057d48/625275
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.com.lb/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana لـــنـــا
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https//:" ,Lana 2
+http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/106170
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks.m3u8
