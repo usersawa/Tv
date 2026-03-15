@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="http" ,♡أهلا رمضان
-https://fvideo6d.ddns.me/2vod5n/ramez-jab-men-15_muxed.mp4/playlist.m3u8
+http://tvappapk@line.sir24.biz:8080/elhajafatiha/11042024/233
 #EXTINF:-1 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة إقرأ
 https://m.youtube.com/watch?v=KDYvkCzzDlY&pp=ygUY2KjYqyDZhdio2KfYtNixINin2YLYsdin
 
@@ -33,8 +33,8 @@ https://m.youtube.com/watch?v=13jWguiVPrg&pp=uAQw
 https://m.youtube.com/watch?v=dtvkXjl40eE&pp=ygUa2KjYsdin2YrZhSDYqNirINmF2KjYp9i02LE%3D
 
 
-#EXTINF:-1 tvg-id="" tvg-name="SY| SYRIA SATELLITE TV" tvg-logo="http://91.208.162.66/syrian-satellite-channel-sy.png" group-title="ARABIC | OTT",SY| ANA SYRIA  TV
-http://tvappapk@bar52985.neo-cdn1.me/othman26safi/e1da057d48/286058
+#EXTINF:-1 tvg-id=""tvg-logo="http://91.208.162.66/syrian-satellite-channel-sy.png"ANA SYRIA TV
+http://tvappapk@line.sir24.biz:8080/elhajafatiha/11042024/229
 
 #EXTINF:-1 tvg-id="" tvg-name="SY| SYRIA SATELLITE TV" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2021/01/logo-موقع.png" group-title="ARABIC | OTT",SY| حلب اليومTV
 https://mn-nl.mncdn.com/halabtoday/livestream/chunklist_w428199409.m3u8
