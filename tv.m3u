@@ -87,6 +87,25 @@ http://iptv-premium-ott.com:8789/BSM73928/OSF19372/219391
 http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157953
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",test
 https://mbcvod-enc.edgenextcdn.net/out/v1/64c796ec195843fe972268389531d623/8c025b7c1e7b4c9889c96a04d689fb4d/5d33de6f8ee54259b28072e9bdb1fdfe/bc263d857ca446ebb44d38be262e6118/9b13fdc446dd4445a3aa62413777d174/manifest_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,أكشن
+http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/41800
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,ام بي سي ٢
+http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/45642
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,ماكس
+http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/105344
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,دراما
+http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/152962
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,ماكس +
+http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/152958
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي
+http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/41731
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,سما دبي
+http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/41730
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي ون
+http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/152812
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6b210.png" ,أبو ظبي الرياضية 2
 https://games1.elahmad.xyz/tv775_www.elahmad.com_mbc_variety/tracks-v1a1/mono.m3u8?token=a51e2c07c986916e447f36aff0df427169244f7d-37c1d61996034d02b5c1116fe18d9cd7-1767197044-1767195244
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png" ,ياس
