@@ -2,10 +2,10 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="http" ,♡أهلا رمضان
 http://tvappapk@line.sir24.biz:8080/elhajafatiha/11042024/233
-#EXTINF:-1 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة إقرأ
+#EXTINF:-0 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة إقرأ
 https://m.youtube.com/watch?v=wTowlyAqYhQ&pp=0gcJCcUKAYcqIYzv
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.sabaharabi.com/img/26/02/16/700634.webp" ,السورية الجديدة
+#EXTINF:-0 tvg-id="" tvg-logo="https://media.sabaharabi.com/img/26/02/16/700634.webp" ,السورية الجديدة
 http://tvappapk@bar52985.neo-cdn1.me/othman26safi/e1da057d48/625275
 
 
@@ -22,18 +22,18 @@ https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriat
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.syriaone.tv/SyriaONETVB.png" ,قناة Syriaone
 https://live.syriaone.tv/live/syriaone.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/09/1-400x197.png" ,قناة برايم السورية تجربية
+#EXTINF:-0 tvg-id="" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/09/1-400x197.png" ,قناة برايم السورية تجربية
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
-https://m.youtube.com/watch?v=h57b676emP8&pp=ygUg2KfYrtio2KfYsSDZhdio2KfYtNixINiz2YjYsdmK2Kc%3D
+https://m.youtube.com/watch?v=WuEEEYUxI5M&pp=ygUZ2KfZhNiz2YjYsdmK2Kkg2YXYqNin2LTYsQ%3D%3D
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAvD84mKFMMLk1HX8env5PrbJIiQLXVxrFNelQ3d2rA&s=10" ,قناة جولدن
+#EXTINF:-0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAvD84mKFMMLk1HX8env5PrbJIiQLXVxrFNelQ3d2rA&s=10" ,قناة جولدن
 https://m.youtube.com/watch?v=13jWguiVPrg&pp=uAQw
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAvD84mKFMMLk1HX8env5PrbJIiQLXVxrFNelQ3d2rA&s=10" ,جولدن دراما
+#EXTINF:-0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAvD84mKFMMLk1HX8env5PrbJIiQLXVxrFNelQ3d2rA&s=10" ,جولدن دراما
 https://m.youtube.com/watch?v=dtvkXjl40eE&pp=ygUa2KjYsdin2YrZhSDYqNirINmF2KjYp9i02LE%3D
 
 
-#EXTINF:-1 tvg-id=""tvg-logo="http://91.208.162.66/syrian-satellite-channel-sy.png" ,ANA SYRIA TV
+#EXTINF:-0 tvg-id=""tvg-logo="http://91.208.162.66/syrian-satellite-channel-sy.png" ,ANA SYRIA TV
 http://tvappapk@line.sir24.biz:8080/elhajafatiha/11042024/229
 
 #EXTINF:-1 tvg-id="" tvg-name="SY| SYRIA SATELLITE TV" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2021/01/logo-موقع.png" group-title="ARABIC | OTT",SY| حلب اليومTV
@@ -41,7 +41,7 @@ https://mn-nl.mncdn.com/halabtoday/livestream/chunklist_w428199409.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/38eJTgbodK0LJGKXsxcDCGlvE3PoX7-MWKqrRJUblkz0vLNqJ5Wm1g5lypNarVntFXjog3GrgNU=s48-c-k-c0x00ffffff-no-rj",قناة قرأني جناتي 
 https://m.youtube.com/watch?v=e-xuoP0WnlM&pp=uAQw
-#EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
+#EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية ويب
 https://www.elahmad.com/tv/alikhbariya-syria.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1681013.smushcdn.com/1681013/wp-content/uploads/2025/10/cropped-cropped-logo-1-300x300.png" ,قناة اليوم 
 https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
