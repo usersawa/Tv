@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
 
-#EXTINF:-1 tvg-id="" tvg-logo="http" ,♡أهلا رمضان
-http://tvappapk@line.sir24.biz:8080/elhajafatiha/11042024/233
+#EXTINF:-1 tvg-id="" tvg-logo="http" ,♡قناة رياض الصالحين 
+https://www.riyadalsalihin.tv/proxy-hls?url=https://starmenajo.com/hls/riads/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة إقرأ
 
 
@@ -10,7 +10,7 @@ http://tvappapk@line.sir24.biz:8080/elhajafatiha/11042024/233
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.com.lb/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana لـــنـــا
-https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
+https://p-ltv.akamaized.net/ltv/ltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.com.lb/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana 2
 http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/106170
 
