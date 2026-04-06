@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
 
 #EXTINF:-1 tvg-id="" tvg-logo="http" ,♡قناة رياض الصالحين 
-https://www.riyadalsalihin.tv/proxy-hls?url=https://starmenajo.com/hls/riads/index.m3u8
+https://starmenajo.com/hls/riads/index.m3u8
 #EXTINF:-0 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة إقرأ
 
 
