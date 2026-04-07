@@ -2,8 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="http" ,♡قناة رياض الصالحين 
 https://starmenajo.com/hls/riads/index.m3u8
-#EXTINF:-0 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة إقرأ
-
+#EXTINF:-0 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة المجد
+http://supersonictv.live:8080/Allen123/Allen123/84206
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://media.sabaharabi.com/img/26/02/16/700634.webp" ,السورية الجديدة
 
@@ -103,7 +103,7 @@ http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/41731
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,سما دبي
 http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/41730
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي ون
-http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/152812
+http://supersonictv.live:8080/Allen123/Allen123/84111
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,رؤيا
 http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/41708
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,4 الرابعة
