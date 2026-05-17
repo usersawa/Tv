@@ -6,13 +6,13 @@ https://riyadalsalihin.site:13334/app/stream/ts:hd.m3u8
 
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://media.sabaharabi.com/img/26/02/16/700634.webp" ,السورية الجديدة
-
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.com.lb/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana لـــنـــا
-https://p-ltv.akamaized.net/ltv/ltv.m3u8
+https://cdn.streamlane.tv/hls/ltv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.com.lb/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana 2
-http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/106170
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
@@ -25,7 +25,7 @@ https://live.syriaone.tv/live/syriaone.m3u8
 #EXTINF:-0 tvg-id="" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/09/1-400x197.png" ,قناة برايم السورية تجربية
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
-https://m.youtube.com/watch?v=WO9wK0okk5I
+https://m.youtube.com/watch?v=FqrItX4gbmY&pp=uAQw
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAvD84mKFMMLk1HX8env5PrbJIiQLXVxrFNelQ3d2rA&s=10" ,قناة جولدن
 
