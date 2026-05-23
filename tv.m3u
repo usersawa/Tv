@@ -12,7 +12,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.com.lb/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana لـــنـــا
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.com.lb/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana 2
-
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1779554028/ei/jIIRaquVFM606dsPgoLa8AQ/ip/2a02%3A810d%3A8c8b%3A4f00%3A57c%3Adc6e%3Aaef%3Ad74/id/EZf-EuQnFgk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51901746/txs/51901742%2C51901743%2C51901744%2C51901745%2C51901746/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AbKmrwpCjK_mj9X4opLpgj06lOJikf77KQ7tnKJ7kf53uIFn25Jhfl0XgXdojAmb53qR1em-7M1W6B96/spc/96Xrv2x6XEBpRGVs4V5Usva_qrdDwW8xRsA7iWhSwr5wIyIBuj6AydMrliWkJpZpKO4Wog/vprv/1/go/1/ns/cQ2BGh2b5SHFXqOCHqNpuxcV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682/dover/11/n/Vh8nSeMFuPTAxOjl-1h/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIhALDwJfFaI5VnIi6KmF2zQyxywBttlkjXavImh1rcY4miAiApk3vS3UhIGXHuR2XIDttwaxbczzl2eN4RQYnCMnkkQA%3D%3D/file/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
