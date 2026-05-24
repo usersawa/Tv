@@ -218,7 +218,7 @@ http://iptv-premium-ott.com:8789/BSM73928/OSF19372/22896
 #EXTINF:-1 tvg-id="" tvg-logo="" ,VOD-Cinema
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,VOD-Series
-
+https://fast.spacetoongo.com/channels/32f56574-6af3-4fc9-a59d-7dfec23eca0a/master1000.m3u8
 #EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Mbc_3_Logo_TV_Channels_Official.jpg" ,MBC 3
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 
