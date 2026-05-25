@@ -101,6 +101,8 @@ http://tvappapk@185.160.192.64/deam4440/deam0493/446814
 http://tvappapk@185.160.192.64/deam4440/deam0493/157945
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي
 http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157958
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Dubai tv
+https://www.giniko.com/xml/secure/plist.php?ch=270
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,سما دبي
 http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157945
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي ون
@@ -119,8 +121,8 @@ https://tv.alfajertv.com
 https://tv.alfajertv.com/ch3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png" ,ياس
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,ZEE tv
+https://www.giniko.com/xml/secure/plist.php?ch=551
 #EXTINF:-1 tvg-id="" tvg-logo="https://wasmenia.com/_next/image?url=https%3A%2F%2Fstrapi.wasmenia.com%2Fuploads%2FAD_Media_03_4fbe4e1cda.svg&w=828&q=75" ,بينونة
 
 #EXTINF:-1 tvg-id="Dubai.il" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" ,دبي
