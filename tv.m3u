@@ -110,7 +110,21 @@ http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157959
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي ون xml
 https://www.giniko.com/xml/secure/plist.php?ch=874
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,رؤيا
-https://tgn.bozztv.com/gin-trn09/ga-zeeaflam/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI2IDc6MDI6NTQgUE0maGFzaF92YWx1ZT14VjUvS1h3bjNBL29ZckY4L0I3bUdnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,الحياة مصر
+https://www.giniko.com/xml/secure/plist.php?ch=747
+#EXTINF:-1 tvg-id="" tvg-logo=""" ,Mtv leb
+https://www.giniko.com/xml/secure/plist.php?ch=749
+#EXTINF:-1 tvg-id="" tvg-logo="h" ,الشروق الجزائر
+https://www.giniko.com/xml/secure/plist.php?ch=878
+#EXTINF:-1 tvg-id="" tvg-logo="h" ,Roya tv
+https://www.giniko.com/xml/secure/plist.php?ch=907
+#EXTINF:-1 tvg-id="" tvg-logo="h" ,الظفرة
+https://www.giniko.com/xml/secure/plist.php?ch=1514
+#EXTINF:-1 tvg-id="" tvg-logo="h" ,السومرية
+https://www.giniko.com/xml/secure/plist.php?ch=612
+#EXTINF:-1 tvg-id="" tvg-logo="h" ,Abu Dhabi TV
+https://www.giniko.com/xml/secure/plist.php?ch=1075
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,fajer1-hd
 https://tv.alfajertv.com/ch1hd
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,fajer2
