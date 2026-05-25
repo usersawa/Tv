@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="http" ,♡قناة رياض الصالحين 
 https://riyadalsalihin.site:13334/app/stream/ts:hd.m3u8
-#EXTINF:-0 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة المجد
+#EXTINF:-0 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة الشرقية
 https://www.giniko.com/xml/secure/plist.php?ch=875
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://media.sabaharabi.com/img/26/02/16/700634.webp" ,السورية الجديدة
@@ -88,21 +88,25 @@ http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157953
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",test
 https://mbcvod-enc.edgenextcdn.net/out/v1/64c796ec195843fe972268389531d623/8c025b7c1e7b4c9889c96a04d689fb4d/5d33de6f8ee54259b28072e9bdb1fdfe/bc263d857ca446ebb44d38be262e6118/9b13fdc446dd4445a3aa62413777d174/manifest_2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://" ,أكشن
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,tcm
+http://tvappapk@185.160.192.64/deam4440/deam0493/446854
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,
+Star action 
+http://tvappapk@185.160.192.64/deam4440/deam0493/446848
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Star movie 
+http://tvappapk@185.160.192.64/deam4440/deam0493/446851
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Stc
+http://tvappapk@185.160.192.64/deam4440/deam0493/446814
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://" ,ام بي سي ٢
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://" ,ماكس
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://" ,دراما
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://" ,ماكس +
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Sama Dubai +
+http://tvappapk@185.160.192.64/deam4440/deam0493/157945
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي
-https://tgn.bozztv.com/trn03/gin-dubaitv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI2IDQ6NTc6MDIgUE0maGFzaF92YWx1ZT01enV6SFp3cDJoRysxdnlCS29ubHlBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157958
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,سما دبي
-http://tv.tvdark.eu/v5CW3YXT/rCeEUPu7/41730
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157945
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي ون
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157959
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي ون xml
 https://www.giniko.com/xml/secure/plist.php?ch=874
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,رؤيا
 https://tgn.bozztv.com/gin-trn09/ga-zeeaflam/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNy8yMDI2IDc6MDI6NTQgUE0maGFzaF92YWx1ZT14VjUvS1h3bjNBL29ZckY4L0I3bUdnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjE=
@@ -244,7 +248,7 @@ https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" ,الآن 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://aldafrah.ae/wp-content/uploads/2022/08/adf-logo.png" ,الظّفرة
-https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/source/index.m3u8
+http://iptv-premium-ott.com:8789/BSM73928/OSF19372/22969
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fujairahtv.ae/images/menu-logo.png" ,الفجيرة
 https://live.kwikmotion.com/fujairahlive/fujairah.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://qanawat.taghtia.com/assets/channels/ajman-tv.png" ,عجمان
