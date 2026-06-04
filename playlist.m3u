@@ -1,9 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" group-title="YouTube List", الفيديو الأول
-https://www.youtube.com/watch?v=xbLBngQEkUA
 
-#EXTINF:-1 tvg-id="2" group-title="YouTube List", الفيديو الثاني
-https://www.youtube.com/watch?v=PtEKrPXmE-s
+#EXTINF:-1, Video 1
+https://www.youtube.com/watch?v=PVFieBuENr0
 
-#EXTINF:-1 tvg-id="3" group-title="YouTube List", الفيديو الثالث
-https://www.youtube.com/watch?v=31yWV822v6Y
+#EXTINF:-1, Video 2
+https://www.youtube.com/watch?v=iyhkvjSUdss
+
+#EXTINF:-1, Video 3
+https://www.youtube.com/watch?v=XU7yZfPAM8I
