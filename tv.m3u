@@ -80,16 +80,16 @@ https://raw.githubusercontent.com/usersawa/Tv/refs/heads/main/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",الإمارات العربية المتحدة
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/emarat_tv/emarat_tv_hls_nd/index.m3u8
+
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي1
-https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/abudhabi_tv/abudhabi_tv_hls_nd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
-http://iptv-premium-ott.com:8789/BSM73928/OSF19372/219391
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89e570.png" ,الإمارات
-http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157953
+http://tvappapk@185.160.192.64/deam4440/deam0493/219395
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",test
-https://mbcvod-enc.edgenextcdn.net/out/v1/64c796ec195843fe972268389531d623/8c025b7c1e7b4c9889c96a04d689fb4d/5d33de6f8ee54259b28072e9bdb1fdfe/bc263d857ca446ebb44d38be262e6118/9b13fdc446dd4445a3aa62413777d174/manifest_2.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,tcm
 http://tvappapk@185.160.192.64/deam4440/deam0493/446854
@@ -103,13 +103,13 @@ http://tvappapk@185.160.192.64/deam4440/deam0493/446814
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Sama Dubai +
 http://tvappapk@185.160.192.64/deam4440/deam0493/157945
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي
-http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157958
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Dubai tv
 https://www.giniko.com/xml/secure/plist.php?ch=270
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,سما دبي
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/4589
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي ون
-http://iptv-premium-ott.com:8789/BSM73928/OSF19372/157959
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي ون xml
 https://www.giniko.com/xml/secure/plist.php?ch=874
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,رؤيا
@@ -117,7 +117,7 @@ https://www.giniko.com/xml/secure/plist.php?ch=874
 https://www.giniko.com/xml/secure/plist.php?ch=747
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,الحياة ٢ مصر
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/9772
+
 
 #EXTINF:-1 tvg-id="" tvg-logo=""" ,Mtv leb
 https://www.giniko.com/xml/secure/plist.php?ch=749
@@ -134,17 +134,17 @@ https://www.giniko.com/xml/secure/plist.php?ch=1075
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,on drama
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/9736
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,النهار دراما مصر
 http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/9773
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,بانوراما دراما  مصر
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/9765
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,البلد دراما مصر
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/9767
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,cbc drama مصر
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/9777
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,الرابعة افلام عراق
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/1178087
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png" ,ياس
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,ZEE tv
@@ -184,7 +184,7 @@ http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MBC_Max_Logo.svg/1000px-MBC_Max_Logo.svg.png" ,MBC MAX
 http://185.9.2.18/chid_379/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/01/MBC-Variety.png" ,MBC VARIETY
-http://iptv-premium-ott.com:8789/BSM73928/OSF19372/342446
+http://tvappapk@185.160.192.64/deam4440/deam0493/120304
 
 #EXTINF:-1 tvg-id="MBCDramaHD.us" tvg-logo="https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=webp" ,MBC DRAMA
 https://shls-live-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
@@ -211,26 +211,26 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo_23.svg" ,أجيال 
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,Cima tv
-http://iptv-premium-ott.com:8789/BSM73928/OSF19372/22896
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,الصفوة
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/11333
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Osn movie
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/11349
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Osn first move
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/11348
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,move Premiere
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/11347
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Mbs syria
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/424860
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,mbc ch
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/424863
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,mbc variety
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/11573
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,bein movie
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/11451
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,bein family
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/11448
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,VOD-Series
@@ -242,7 +242,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" ,SPACETOON
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/11513
+
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
