@@ -169,7 +169,7 @@ http://185.9.2.18/chid_375/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/files/ur/20647/png/mbc2-01.png" ,MBC 2HD
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?height=auto&width=288&croppingPoint=&version=1&type=webp" ,Aflam
-
+https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264&video_height=144-576&video_codec=H264
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/874px-MBC2_Logo.svg.png" ,MBC 2
@@ -204,9 +204,9 @@ https://ml-pull-hwc.myco.io/MixBelAraby/hls/index.m3u8
 https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQGhpRrNcjX4Tjmsw5k6q36n8qSYtPHThCV5SunbrGAYfhyO_n9kRBoToTTeA5ZJCHfUy72W1WHNgbWwpxMGXT2TRq8V10S99Z6GsHiihEbNjUeHbuizrOf3b0MFMMszqcbJSDB5BvxRpC/s200/M-Net+Action+logo+Oct+2010.jpg" ,Movies_Action
-http://line.ottcst.com:80/HMZSGKZSCF/4RAZUGPADF/282366
+https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112012/thriller.png?itok=6N6CIcxQ" ,Movies_ThrillerShahid
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo_23.svg" ,أجيال 
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
