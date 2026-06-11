@@ -77,6 +77,8 @@ https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://musawachannel.com/sites/all/themes/musawa/images/logo.png" ,مساواة
 https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://hala-tv.com/images/hala_logo.png" ,هلا TV
+https://stream.panet.com/edge/halaTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gstatic.com/youtube/img/branding/youtubeicon/2x/youtube_main_icon_2x_158x110.png" ,series
