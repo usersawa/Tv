@@ -75,6 +75,10 @@ https://fastly.live.brightcove.com/6376826200112/eu-central-1/6415809151001/eyJh
 #EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" ,عـــمّــــان
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://musawachannel.com/sites/all/themes/musawa/images/logo.png" ,مساواة
+https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gstatic.com/youtube/img/branding/youtubeicon/2x/youtube_main_icon_2x_158x110.png" ,series
 https://raw.githubusercontent.com/usersawa/Tv/refs/heads/main/playlist.m3u 
 
@@ -247,6 +251,10 @@ https://live-uae.spacetoongo.com/ST_Live_UAE/hls/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/hemzaberkane/AlgeriaPicons/main/amouyazid.png" ,Amou Yazid TV
 http://mkstream.servehttp.com:1940/AmouYazid/ay1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Kids.png" ,Rotana Kids
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_KIDS/chunks.m3u8?token=demo
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,Tom and Jerry Tv
 https://archive.org/serve/tomandjerry_201509/%D9%81%D9%8A%D9%84%D9%85%20%D9%83%D8%B1%D8%AA%D9%88%D9%86%20%D8%AA%D9%88%D9%85%20%D9%88%D8%AC%D9%8A%D8%B1%D9%8A%20%D8%A8%D8%B9%D9%86%D9%88%D8%A7%D9%86%20%D8%AA%D9%88%D9%85%20%D9%81%D9%8A%20%D8%AE%D9%8A%D8%A7%D9%85%20%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A9.mp4
