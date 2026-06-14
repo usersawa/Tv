@@ -39,8 +39,7 @@ https://m.youtube.com/@AlekhbariahSY/live
 #EXTINF:-1 tvg-id="" tvg-name="SY| SYRIA SATELLITE TV" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2021/01/logo-موقع.png" group-title="ARABIC | OTT",SY| حلب اليومTV
 https://mn-nl.mncdn.com/halabtoday/livestream/chunklist_w428199409.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/38eJTgbodK0LJGKXsxcDCGlvE3PoX7-MWKqrRJUblkz0vLNqJ5Wm1g5lypNarVntFXjog3GrgNU=s48-c-k-c0x00ffffff-no-rj",قناة قرأني جناتي 
-https://m.youtube.com/watch?v=e-xuoP0WnlM&pp=uAQw
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية ويب
 https://www.elahmad.com/tv/alikhbariya-syria.php
 #EXTINF:-1 tvg-id="" tvg-logo="https://b1681013.smushcdn.com/1681013/wp-content/uploads/2025/10/cropped-cropped-logo-1-300x300.png" ,قناة اليوم 
@@ -51,11 +50,9 @@ https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8
 #EXTINF:-1 tvg-id="AlAraby2.ma" tvg-logo="https://media0087.elcinema.com/tvguide/1382_1.png" ,العربي 2
 https://origin-cae-t482536.cdn.nextologies.com/63d8c759c5db83b4/25c4f89d27a79014ALA2306/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/YzmXNGuw52dnkMRo6erZC3p_HjOmhD-Co6erKerwQjeaKC3u5Bmp8k1pZwum29snn8HMuBLCWg=s48-c-k-c0x00ffffff-no-rj" ,أناشيد دينية
-https://m.youtube.com/watch?v=aMg36VTyyo4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1371_1.png" ,MixTV
-https://m.youtube.com/watch?v=-F6tEHzwwBE
+
+
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EEyoezCD3Ws/VhEz21LJFvI/AAAAAAAAjsE/RqwZ8oCiKgk/s1600/jordan-flag-pole-animated.gif",مطبخ رؤيا 
 
