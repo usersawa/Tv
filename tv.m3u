@@ -1,5 +1,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-org/epg/master/sites/elcinema.com/elcinema.com_ar.channels.xml"
 
+#EXTINF:-1 tvg-id="" tvg-logo="http" ,♡ 💕Geburtstag Waed💕 
+https://m.youtube.com/watch?v=rZN5qsXbRJA
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http" ,♡قناة رياض الصالحين 
 https://riyadalsalihin.site:13334/app/stream/ts:hd.m3u8
 #EXTINF:-0 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة الشرقية
