@@ -1,1 +1,1 @@
-http://cdn8.anisfm.pp.ua/listen/mx/1
+https://cdn6.anisfm.pp.ua:2053/live/mx/2M
