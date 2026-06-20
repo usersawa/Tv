@@ -3,3 +3,5 @@ https://cdn6.anisfm.pp.ua:2053/live/mx/2M
 Radio 1|http://anisfm.pp.ua/Mx1
 Radio 2|http://anisfm.pp.ua/Mx2
 Radio 3|https://cdn6.anisfm.pp.ua:2053/live/mx/2M
+Radio 4|https://ahmsamir.radioca.st/stream/1/
+Radio 5|https://sportschau-event.ard-mcdn.de/sportschau/event13-ma/hls/de/masteraudio1.m3u8
