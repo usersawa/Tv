@@ -2,4 +2,4 @@ https://sportschau-event.ard-mcdn.de/sportschau/event13-ma/hls/de/master1080p500
 https://cdn6.anisfm.pp.ua:2053/live/mx/2M
 Radio 1|http://anisfm.pp.ua/Mx1
 Radio 2|http://anisfm.pp.ua/Mx2
-Radio 3|http://radio3.com/stream
+Radio 3|https://cdn6.anisfm.pp.ua:2053/live/mx/2M
