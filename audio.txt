@@ -6,23 +6,23 @@ Radio 3|https://cdn6.anisfm.pp.ua:2053/live/mx/2M
 Radio 4|https://ahmsamir.radioca.st/stream/1/
 Radio 5|https://sportschau-event.ard-mcdn.de/sportschau/event13-ma/hls/de/masteraudio1.m3u8
 Zdf 1|https://hls-15.ls.zdf.de/hls/live/2016498/de/high/master.m3u8
-0|Fox1|https://foxfm.xyz/4K-1/mpegts#
-0|Fox2|http://https://foxfm.xyz/4K-2/mpegts#
-0|Fox3|https://foxfm.xyz/4K-3/mpegts#
-0|Fox4|https://foxfm.xyz/4K-4/mpegts#
-0|ScorpionMax1|http://radio.scorpion-audio.com/ScorpionMax1_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
-0|ScorpionMax2|http://radio.scorpion-audio.com/ScorpionMax2_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
-0|ScorpionMax3|http://radio.scorpion-audio.com/ScorpionMax3_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
-0|ScorpionMax4|http://radio.scorpion-audio.com/ScorpionMax4_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
-0|Anis1|http://anisfm.ddns.net
-0|Anis2|http://anisfm2.ddns.net
-0|Anis3|http://anisfm3.ddns.net
-0|Anis4|http://anisfm4.ddns.net
-0|Anis5|http://anisfm5.ddns.net
-0|Anis4K1|http://anisfm.pp.ua/1#
-0|Anis4K2|http://anisfm.pp.ua/2#
-0|Anis4K3|http://anisfm.pp.ua/3#
-0|Anis4K4|http://anisfm.pp.ua/4#
-0|Anis4K5|http://anisfm.pp.ua/5#
-0|Islam1|https://bein.trystra.xyz/islam_max1
-0|Islam2|https://bein.trystra.xyz/islam_max2
+Fox1|https://foxfm.xyz/4K-1/mpegts#
+Fox2|http://https://foxfm.xyz/4K-2/mpegts#
+Fox3|https://foxfm.xyz/4K-3/mpegts#
+Fox4|https://foxfm.xyz/4K-4/mpegts#
+ScorpionMax1|http://radio.scorpion-audio.com/ScorpionMax1_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
+ScorpionMax2|http://radio.scorpion-audio.com/ScorpionMax2_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
+ScorpionMax3|http://radio.scorpion-audio.com/ScorpionMax3_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
+ScorpionMax4|http://radio.scorpion-audio.com/ScorpionMax4_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
+Anis1|http://anisfm.ddns.net
+Anis2|http://anisfm2.ddns.net
+Anis3|http://anisfm3.ddns.net
+Anis4|http://anisfm4.ddns.net
+Anis5|http://anisfm5.ddns.net
+Anis4K1|http://anisfm.pp.ua/1#
+Anis4K2|http://anisfm.pp.ua/2#
+Anis4K3|http://anisfm.pp.ua/3#
+Anis4K4|http://anisfm.pp.ua/4#
+Anis4K5|http://anisfm.pp.ua/5#
+Islam1|https://bein.trystra.xyz/islam_max1
+Islam2|https://bein.trystra.xyz/islam_max2
