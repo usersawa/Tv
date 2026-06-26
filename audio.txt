@@ -6,6 +6,7 @@ Radio 3|https://cdn6.anisfm.pp.ua:2053/live/mx/2M
 Radio 4|https://ahmsamir.radioca.st/stream/1/
 Radio 5|https://sportschau-event.ard-mcdn.de/sportschau/event13-ma/hls/de/masteraudio1.m3u8
 Zdf 1|https://hls-15.ls.zdf.de/hls/live/2016498/de/high/master.m3u8
+Zdf 1|https://sportschau-event.ard-mcdn.de/sportschau/event13-ma/hls/de/master1080p5000.m3u8
 Fox1|https://foxfm.xyz/4K-1/mpegts#
 Fox2|http://https://foxfm.xyz/4K-2/mpegts#
 Fox3|https://foxfm.xyz/4K-3/mpegts#
