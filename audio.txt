@@ -8,9 +8,9 @@ Radio Nogoom|https://ahmsamir.radioca.st/stream/1/
 Sham|https://c.fm.sy/sham
 ninar|https://c.fm.sy/ninar
 arabesque|https://c.fm.sy/arabesque
-nasaem|https://stream.zeno.fm/u1wbm3k7gxquv
+Zdf 1|https://stream.zeno.fm/u1wbm3k7gxquv
 Rosana|https://stream.radio.co/sea7ed1c60/listen
-Emmar|https://stream-149.zeno.fm/4luag56o066uv
+Zdf 1|https://stream-149.zeno.fm/4luag56o066uv
 vetsion|https://versionfm.com/live/stream
 Radio 5|https://sportschau-event.ard-mcdn.de/sportschau/event13-ma/hls/de/masteraudio1.m3u8
 
