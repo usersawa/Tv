@@ -1,12 +1,19 @@
 https://sportschau-event.ard-mcdn.de/sportschau/event13-ma/hls/de/master1080p5000.m3u8
-https://cdn6.anisfm.pp.ua:2053/live/mx/2M
+Zdf 1|https://hls-15.ls.zdf.de/hls/live/2016498/de/high/master.m3u8
+Zdf 1|https://sportschau-event.ard-mcdn.de/sportschau/event13-ma/hls/de/master1080p5000.m3u8
 Radio 1|http://anisfm.pp.ua/Mx1
 Radio 2|http://anisfm.pp.ua/Mx2
 Radio 3|https://cdn6.anisfm.pp.ua:2053/live/mx/2M
-Radio 4|https://ahmsamir.radioca.st/stream/1/
+Radio Nogoom|https://ahmsamir.radioca.st/stream/1/
+Sham|https://c.fm.sy/sham
+ninar|https://c.fm.sy/ninar
+arabesque|https://c.fm.sy/arabesque
+nasaem|https://stream.zeno.fm/u1wbm3k7gxquv
+Rosana|https://stream.radio.co/sea7ed1c60/listen
+Emmar|https://stream-149.zeno.fm/4luag56o066uv
+vetsion|https://versionfm.com/live/stream
 Radio 5|https://sportschau-event.ard-mcdn.de/sportschau/event13-ma/hls/de/masteraudio1.m3u8
-Zdf 1|https://hls-15.ls.zdf.de/hls/live/2016498/de/high/master.m3u8
-Zdf 1|https://sportschau-event.ard-mcdn.de/sportschau/event13-ma/hls/de/master1080p5000.m3u8
+
 Fox1|https://foxfm.xyz/4K-1/mpegts#
 Fox2|http://https://foxfm.xyz/4K-2/mpegts#
 Fox3|https://foxfm.xyz/4K-3/mpegts#
@@ -15,6 +22,7 @@ ScorpionMax1|http://radio.scorpion-audio.com/ScorpionMax1_ali/mpegts?token=Wafit
 ScorpionMax2|http://radio.scorpion-audio.com/ScorpionMax2_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
 ScorpionMax3|http://radio.scorpion-audio.com/ScorpionMax3_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
 ScorpionMax4|http://radio.scorpion-audio.com/ScorpionMax4_ali/mpegts?token=Wafitheking_WDr1Y5j85oDL4kBr#
+mx|https://cdn6.anisfm.pp.ua:2053/live/mx/2M
 Anis1|http://anisfm.ddns.net
 Anis2|http://anisfm2.ddns.net
 Anis3|http://anisfm3.ddns.net
