@@ -247,7 +247,7 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,bein movie
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/huna-london/assets/web/general/logo.png" ,قناة فلونة
+#EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/huna-london/assets/web/general/logo.png" ,قناة فلونة 
 https://raw.githubusercontent.com/usersawa/m3u8-extractor-bot/refs/heads/main/latest.m3u
 
 
