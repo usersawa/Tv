@@ -30,7 +30,7 @@ https://live.syriaone.tv/live/syriaone.m3u8
 https://m.youtube.com/@AlekhbariahSY/live
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAvD84mKFMMLk1HX8env5PrbJIiQLXVxrFNelQ3d2rA&s=10" ,قناة جولدن
-https://raw.githubusercontent.com/usersawa/m3u8-extractor-bot/refs/heads/main/latest.m3u
+
 #EXTINF:-0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQAvD84mKFMMLk1HX8env5PrbJIiQLXVxrFNelQ3d2rA&s=10" ,عاج دراما
 
 
@@ -83,7 +83,7 @@ https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 https://stream.panet.com/edge/halaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D8%A7%D9%86.png" ,مكان Tv
 https://n-121-4.il.cdn-redge.media/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id=" tvg-logo="https://nuwubfmrtorg.merlincdn.net/huna-london/assets/web/general/logo.png" ,Hala_London
+#EXTINF:-1 tvg-id=" tvg-logo="" ,Hala_London
 https://stream.addresses-sat.com/Hala_London/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.gstatic.com/youtube/img/branding/youtubeicon/2x/youtube_main_icon_2x_158x110.png" ,series
 https://raw.githubusercontent.com/usersawa/Tv/refs/heads/main/playlist.m3u 
@@ -247,8 +247,8 @@ http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,bein movie
 
-#EXTINF:-1 tvg-id="" tvg-logo="h" ,bein family
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/huna-london/assets/web/general/logo.png" ,قناة فلونة
+https://raw.githubusercontent.com/usersawa/m3u8-extractor-bot/refs/heads/main/latest.m3u
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" ,VOD-Series
