@@ -21,7 +21,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.syriaone.tv/SyriaONETVB.png" ,قناة Syriaone
-
+https://nasaem.fm/?fbclid=IwVERDUAUFc3NwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHiHp0WrREc_aluICGvl39SEAsb_5Ay4j_9e_ECYDnROEDt4c-Bapt0TjNmS-_aem_c5oquqxCdvxcLdSfsp9g_A
 #EXTINF:-0 tvg-id="" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/09/1-400x197.png" ,قناة برايم 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
 https://m.youtube.com/@AlekhbariahSY/live
@@ -122,13 +122,17 @@ https://www.giniko.com/xml/secure/plist.php?ch=878
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,الظفرة
 https://www.giniko.com/xml/secure/plist.php?ch=1514
+#EXTINF:-0 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة الشرقية
+https://www.giniko.com/xml/secure/plist.php?ch=875
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,السومرية
 https://www.giniko.com/xml/secure/plist.php?ch=612
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Abu Dhabi TV
 https://www.giniko.com/xml/secure/plist.php?ch=1075
 
 #EXTINF:-1 tvg-id="" tvg-logo="." ,الفجر
-
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,fajer1
+#EXTVLCOPT:http-referrer=https://tv.alfajertv.com
+https://tv.alfajertv.com/ch1
 #EXTINF:-1 tvg-id="" tvg-logo="#" ,Bein movie 1
 http://ar.ycncdn.online/live/076/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="#" ,bein movie action
