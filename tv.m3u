@@ -4,8 +4,7 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="http" ,♡قناة رياض الصالحين 
 https://riyadalsalihin.site:13334/app/stream/ts:hd.m3u8
-#EXTINF:-0 tvg-id="" tvg-logo="https://iqraa.com/wp-content/uploads/2024/11/500-Logo-White.png" ,قناة الشرقية
-https://www.giniko.com/xml/secure/plist.php?ch=875
+
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://media.sabaharabi.com/img/26/02/16/700634.webp" ,السورية الجديدة
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62776225433b8c3d406/index.m3u8
@@ -13,9 +12,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-souriya-tv/e3150760fa5fd62
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ltv.com.lb/static/media/LTV-logo_Approved04-1-1536x1411.d7ea77f48eb8047fe322.png" ,Lana لـــنـــا
 https://cdn.streamlane.tv/hls/ltv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,fajer1
-#EXTVLCOPT:http-referrer=https://tv.alfajertv.com
-https://tv.alfajertv.com/ch1
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.syria.tv/themes/custom/syriatv_revamp/logo.png" ,تلفزيون سوريا
@@ -24,7 +21,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.syriaone.tv/SyriaONETVB.png" ,قناة Syriaone
-https://live.syriaone.tv/live/syriaone.m3u8
+
 #EXTINF:-0 tvg-id="" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/09/1-400x197.png" ,قناة برايم 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
 https://m.youtube.com/@AlekhbariahSY/live
@@ -66,17 +63,13 @@ https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya.tv/imagechanger/Size01Q40R927/images/channels/Uk6vfv1EzBGFuku.png" ,رؤيـــا
 https://roya.tv/live-stream/1
-#EXTINF:-1 tvg-id="" tvg-logo="" ,رؤيا مطبخ
-https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R927/images/channels/VxKuzwvG5TBvqXI.png" , رؤيا دراما
-https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://backend.roya-tv.com/imagechanger/Size01Q40R927/images/channels/GACtHgmN6t9X6RO.png" ,رؤيا كوميدي 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.almamlakatv.com/css/frontcss/images/logo.png" ,المملكة
 https://fastly.live.brightcove.com/6376826200112/eu-central-1/6415809151001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieWlod3RhLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNTgwOTE1MTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1ODA5MTUxMDAxIl0sImp0aSI6IjYzNzY4MjYyMDAxMTIifQ.EBaDAQiDkyoRKYIjLROyrZzKFPcftOUxk4ftmhtVsEk/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/amman-tv/assets/web/general/logo.png" ,عـــمّــــان
 https://ammantv-live.ercdn.net/ammantvhd/ammantvhd.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="h" ,Roya tv
+https://www.giniko.com/xml/secure/plist.php?ch=907
 #EXTINF:-1 tvg-id="" tvg-logo="https://musawachannel.com/sites/all/themes/musawa/images/logo.png" ,مساواة
 https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://hala-tv.com/images/hala_logo.png" ,هلا TV
@@ -97,21 +90,14 @@ https://raw.githubusercontent.com/usersawa/Tv/refs/heads/main/playlist.m3u
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89e570.png" ,الإمارات
-http://tvappapk@185.160.192.64/deam4440/deam0493/219395
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",test
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://" ,tcm
-http://tvappapk@185.160.192.64/deam4440/deam0493/446854
-#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Star action 
-http://tvappapk@185.160.192.64/deam4440/deam0493/446848
-#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Star movie 
-http://tvappapk@185.160.192.64/deam4440/deam0493/446851
-#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Stc
-http://tvappapk@185.160.192.64/deam4440/deam0493/446814
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Sama Dubai +
-http://tvappapk@185.160.192.64/deam4440/deam0493/157945
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Dubai tv
@@ -133,8 +119,7 @@ http://185.9.2.18/chid_659/mono.m3u8
 https://www.giniko.com/xml/secure/plist.php?ch=749
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,الشروق الجزائر
 https://www.giniko.com/xml/secure/plist.php?ch=878
-#EXTINF:-1 tvg-id="" tvg-logo="h" ,Roya tv
-https://www.giniko.com/xml/secure/plist.php?ch=907
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,الظفرة
 https://www.giniko.com/xml/secure/plist.php?ch=1514
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,السومرية
@@ -143,13 +128,13 @@ https://www.giniko.com/xml/secure/plist.php?ch=612
 https://www.giniko.com/xml/secure/plist.php?ch=1075
 
 #EXTINF:-1 tvg-id="" tvg-logo="." ,الفجر
-http://apk.ch-arabic.buzz/live/018/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="#" ,http://apk.ch-arabic.buzz/live/076/index.m3u8
-Bein movie 1
+
+#EXTINF:-1 tvg-id="" tvg-logo="#" ,Bein movie 1
+http://ar.ycncdn.online/live/076/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="#" ,bein movie action
-http://apk.ch-arabic.buzz/live/077/index.m3u8
+http://ar.ycncdn.online/live/077/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="#" ,bein family
-http://apk.ch-arabic.buzz/live/079/index.m3u8
+http://ar.ycncdn.online/live/079/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,on drama
 
