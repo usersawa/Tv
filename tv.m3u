@@ -21,7 +21,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.syriaone.tv/SyriaONETVB.png" ,قناة Syriaone
-https://nasaem.fm/?fbclid=IwVERDUAUFc3NwZG9mAWV4dG4DYWVtAjEwAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHiHp0WrREc_aluICGvl39SEAsb_5Ay4j_9e_ECYDnROEDt4c-Bapt0TjNmS-_aem_c5oquqxCdvxcLdSfsp9g_A
+
 #EXTINF:-0 tvg-id="" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/09/1-400x197.png" ,قناة برايم 
 #EXTINF:-1 tvg-id="" tvg-logo="https://alikhbariah.com/wp-content/uploads/2025/04/logo.png" ,الإخبارية السورية
 https://m.youtube.com/@AlekhbariahSY/live
@@ -90,14 +90,14 @@ https://raw.githubusercontent.com/usersawa/Tv/refs/heads/main/playlist.m3u
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89e570.png" ,الإمارات
-
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/69260
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",test
 
 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Sama Dubai +
-
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/77792
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,دبي
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Dubai tv
@@ -130,6 +130,11 @@ https://www.giniko.com/xml/secure/plist.php?ch=612
 https://www.giniko.com/xml/secure/plist.php?ch=1075
 
 #EXTINF:-1 tvg-id="" tvg-logo="." ,الفجر
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/148175
+#EXTINF:-1 tvg-id="" tvg-logo="." ,3 الفجر
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/148174
+#EXTINF:-1 tvg-id="" tvg-logo="." ,4 الفجر
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/148178
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,fajer1
 #EXTVLCOPT:http-referrer=https://tv.alfajertv.com
 https://tv.alfajertv.com/ch1
@@ -157,7 +162,7 @@ http://ar.ycncdn.online/live/079/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,ZEE tv
 https://www.giniko.com/xml/secure/plist.php?ch=551
 #EXTINF:-1 tvg-id="" tvg-logo="https://wasmenia.com/_next/image?url=https%3A%2F%2Fstrapi.wasmenia.com%2Fuploads%2FAD_Media_03_4fbe4e1cda.svg&w=828&q=75" ,بينونة
-
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/69258
 #EXTINF:-1 tvg-id="Dubai.il" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiTV.png" ,دبي
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/Sama.png" ,سما دبي
@@ -246,7 +251,7 @@ https://fast.spacetoongo.com/channels/32f56574-6af3-4fc9-a59d-7dfec23eca0a/maste
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Majid_2020.png" ,ماجد
-
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/69259
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/sa/spacetoon.png" ,SPACETOON
 #EXTVLCOPT:http-referrer=https://spacetoon.com
