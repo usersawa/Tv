@@ -156,7 +156,7 @@ http://ar.ycncdn.online/live/079/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,cbc drama مصر
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,الرابعة افلام عراق
-
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/239252
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png" ,ياس
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,ZEE tv
@@ -179,7 +179,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/874px-MBC2_Logo.svg.png" ,MBC 2
 http://185.9.2.18/chid_375/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://iconape.com/wp-content/files/ur/20647/png/mbc2-01.png" ,MBC 2HD
-
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/239702
 #EXTINF:-1 tvg-id="" tvg-logo="https://shahid.mbc.net/mediaObject/06e1a853-795b-4b01-b1fd-baed5df7969c?height=auto&width=288&croppingPoint=&version=1&type=webp" ,Aflam
 https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC1
