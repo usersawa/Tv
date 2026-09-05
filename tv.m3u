@@ -129,12 +129,15 @@ https://www.giniko.com/xml/secure/plist.php?ch=612
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Abu Dhabi TV
 https://www.giniko.com/xml/secure/plist.php?ch=1075
 
-#EXTINF:-1 tvg-id="" tvg-logo="." ,الفجر
-http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/148175
+#EXTINF:-1 tvg-id="" tvg-logo="." ,1 الفجر
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/70414
+
 #EXTINF:-1 tvg-id="" tvg-logo="." ,3 الفجر
 http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/148174
 #EXTINF:-1 tvg-id="" tvg-logo="." ,4 الفجر
 http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/148178
+#EXTINF:-1 tvg-id="" tvg-logo="." ,5 الفجر
+http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/148175
 #EXTINF:-1 tvg-id="" tvg-logo="http://tv.alfajertv.com/assets/images/logo.png" ,fajer1
 #EXTVLCOPT:http-referrer=https://tv.alfajertv.com
 https://tv.alfajertv.com/ch1
