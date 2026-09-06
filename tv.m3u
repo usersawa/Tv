@@ -229,32 +229,32 @@ https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,Cima tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,قناة فن 
-http://spacetvee.com:8080/live//ksa92543/49566522386/313388.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313388.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,الصفوة
-http://spacetvee.com:8080/live//ksa92543/49566522386/313387.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313387.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,يا هلا افلام
-http://spacetvee.com:8080/live//ksa92543/49566522386/313384.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313384.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Art cinema 
 
-http://spacetvee.com:8080/live//ksa92543/49566522386/313398.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313398.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn Family
-http://spacetvee.com:8080/live//ksa92543/49566522386/313357.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313357.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn one
-http://spacetvee.com:8080/live//ksa92543/49566522386/313359.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313359.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn Kids 
-http://spacetvee.com:8080/live//ksa92543/49566522386/313368.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313368.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn action 
-http://spacetvee.com:8080/live//ksa92543/49566522386/313366.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313366.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn comedy
-http://spacetvee.com:8080/live//ksa92543/49566522386/313345.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313345.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn Hollywood
-http://spacetvee.com:8080/live//ksa92543/49566522386/313367.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313367.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Star movie
-http://spacetvee.com:8080/live//ksa92543/49566522386/313379.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313379.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Star World
-http://spacetvee.com:8080/live//ksa92543/49566522386/313380.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313380.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Osn movie
@@ -262,7 +262,7 @@ http://spacetvee.com:8080/live//ksa92543/49566522386/313380.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Osn first move
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,move Premiere
-http://spacetvee.com:8080/live//ksa92543/49566522386/313369.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/313369.ts
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Mbs syria
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,mbc ch
