@@ -226,16 +226,41 @@ https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://arn.ps/assets/images/logo_23.svg" ,أجيال 
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_variety_aaa60f39e8.svg" ,Cima tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,قناة فن 
+http://185.191.126.127:8080/live//ksa92543/49566522386/313388.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,الصفوة
+http://185.191.126.127:8080/live//ksa92543/49566522386/313387.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,يا هلا افلام
+http://185.191.126.127:8080/live//ksa92543/49566522386/313384.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Art cinema 
+
+http://185.191.126.127:8080/live//ksa92543/49566522386/313398.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn Family
+http://185.191.126.127:8080/live//ksa92543/49566522386/313357.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn one
+http://185.191.126.127:8080/live//ksa92543/49566522386/313359.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn Kids 
+http://185.191.126.127:8080/live//ksa92543/49566522386/313368.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn action 
+http://185.191.126.127:8080/live//ksa92543/49566522386/313366.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn comedy
+http://185.191.126.127:8080/live//ksa92543/49566522386/313345.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn Hollywood
+http://185.191.126.127:8080/live//ksa92543/49566522386/313367.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Star movie
+http://185.191.126.127:8080/live//ksa92543/49566522386/313379.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,Star World
+http://185.191.126.127:8080/live//ksa92543/49566522386/313380.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Osn movie
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Osn first move
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,move Premiere
-
+http://185.191.126.127:8080/live//ksa92543/49566522386/313369.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Mbs syria
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,mbc ch
