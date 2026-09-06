@@ -8,4 +8,4 @@ http://tvappapk
 http://line
 http://supersonictv
 http://sts.mydroon
-http://185.191.126.127
+http://185
