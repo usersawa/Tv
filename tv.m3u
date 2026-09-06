@@ -21,7 +21,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_sourc
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,مزيكا
 
-http://spacetvee.com:8080/live//ksa92543/49566522386/438449.m3u8
+http://spacetvee.com:8080/live//ksa92543/49566522386/438449.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.syriaone.tv/SyriaONETVB.png" ,قناة Syriaone
 
 #EXTINF:-0 tvg-id="" tvg-logo="https://prime1tv.com/wp-content/uploads/2025/09/1-400x197.png" ,قناة برايم 
