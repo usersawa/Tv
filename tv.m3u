@@ -190,7 +190,7 @@ https://shd-amg-fast.edgenextcdn.net/tx001/playlist.m3u8
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" ,MBC1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8?aws.manifestfilter=video_height:144-576;video_codec:H264&video_height=144-576&video_codec=H264
 #EXTINF:-1 tvg-id="MBC 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/MBC2_Logo.svg/874px-MBC2_Logo.svg.png" ,MBC 2
-http://ugeen.live:8080/Ugeen_VIPpouq6p/YuSDv1/2772
+http://clearhd.club:8080/muratasn68/asan6868/1092115
 
 #EXTINF:-1 tvg-id="MBC 4 HD+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/1200px-MBC_4_TV_Channel_Logo.png" ,MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
@@ -201,7 +201,7 @@ http://185.9.2.18/chid_378/index.m3u8
 #EXTINF:-1 tvg-id="MBCMax.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MBC_Max_Logo.svg/1000px-MBC_Max_Logo.svg.png" ,MBC MAX
 http://185.9.2.18/chid_379/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/ksalogo.com/wp-content/uploads/2025/01/MBC-Variety.png" ,MBC VARIETY
-http://tvappapk@185.160.192.64/deam4440/deam0493/120304
+http://clearhd.club:8080/muratasn68/asan6868/1092092
 
 #EXTINF:-1 tvg-id="MBCDramaHD.us" tvg-logo="https://shahid.mbc.net/mediaObject/7ccc7980-2151-441f-b862-494961bcf2d9?height=auto&width=288&croppingPoint=&version=1&type=webp" ,MBC DRAMA
 https://shls-live-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_21.m3u8
@@ -233,7 +233,7 @@ http://spacetvee.com:8080/live//1219624801985519/2036793881828746/313388.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,الصفوة
-http://spacetvee.com:8080/live//1219624801985519/2036793881828746/313387.ts
+http://clearhd.club:8080/muratasn68/asan6868/1092267
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,يا هلا افلام
 http://spacetvee.com:8080/live//1219624801985519/2036793881828746/313384.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Art cinema 
@@ -250,27 +250,27 @@ http://spacetvee.com:8080/live//1219624801985519/2036793881828746/313366.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn comedy
 http://spacetvee.com:8080/live//1219624801985519/2036793881828746/313345.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Osn Hollywood
-http://spacetvee.com:8080/live//1219624801985519/2036793881828746/313367.ts
+http://clearhd.club:8080/muratasn68/asan6868/1092253
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Star movie
-http://spacetvee.com:8080/live//1219624801985519/2036793881828746/313379.ts
+http://clearhd.club:8080/muratasn68/asan6868/1092354
 #EXTINF:-1 tvg-id="" tvg-logo="https://" ,Star World
-http://spacetvee.com:8080/live//1219624801985519/2036793881828746/313380.ts
+http://clearhd.club:8080/muratasn68/asan6868/1092352
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Osn movie
-
+http://clearhd.club:8080/muratasn68/asan6868/1092240
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Osn first move
-
+http://clearhd.club:8080/muratasn68/asan6868/1092241
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,move Premiere
-http://spacetvee.com:8080/live//1219624801985519/2036793881828746/313369.ts
+http://clearhd.club:8080/muratasn68/asan6868/1092252
 #EXTINF:-1 tvg-id="" tvg-logo="h" , osn مسلسلات 
 http://spacetvee.com:8080/live//1219624801985519/2036793881828746/313392.ts
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,mbc ch
 
-#EXTINF:-1 tvg-id="" tvg-logo="h" ,mbc variety
-
+#EXTINF:-1 tvg-id="" tvg-logo="h" ,Bien Premiere
+http://clearhd.club:8080/muratasn68/asan6868/1092358
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,bein movie
-
+http://clearhd.club:8080/muratasn68/asan6868/1092359
 #EXTINF:-1 tvg-id="" tvg-logo="https://nuwubfmrtorg.merlincdn.net/huna-london/assets/web/general/logo.png" ,قناة فلونة 
 https://raw.githubusercontent.com/usersawa/m3u8-extractor-bot/refs/heads/main/latest.m3u
 
