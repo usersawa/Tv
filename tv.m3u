@@ -85,12 +85,12 @@ https://raw.githubusercontent.com/usersawa/Tv/refs/heads/main/playlist.m3u
 
 
 #EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",بينونة
-http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/328745.ts
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/328745.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,الإمارات 
 
-http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/15024.ts
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/15024.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
-http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/15023.ts
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/15023.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89e570.png" ,الإمارات
 http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/69260
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",test
@@ -279,14 +279,14 @@ http://psn.bizertybizerty.dad/live/Bajda-soufiane/a4cWndESbD/195303.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,Bien Premiere
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" ,bein movie
-stc family 
-http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/409587.ts
-stc cinema 
-http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/409587.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,stc family 
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/409587.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,stc cinema 
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/409587.m3u8
 Star movie 
-http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/409589.ts
-star movie 1
-http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/409591.ts
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/409589.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,star movie 1
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/409591.m3u8
 
 
 #EXTINF:-1,195281 kana1
