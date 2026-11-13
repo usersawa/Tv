@@ -19,7 +19,7 @@ https://cdn.streamlane.tv/hls/ltv/master.m3u8
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv_source/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media0087.elcinema.com/tvguide/1398_1.png" ,الثانية
 https://live.kwikmotion.com/syriatv02live/syriatv02.smil/syriatv02publish/syriatv02_source/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://" ,مزيكا
+#EXTINF:-1 tvg-id="" tvg-logo="https://" ,MBC 2HD 
 
 http://psn.bizertybizerty.dad/live/Bajda-soufiane/a4cWndESbD/109.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.syriaone.tv/SyriaONETVB.png" ,قناة Syriaone
@@ -84,13 +84,13 @@ https://stream.addresses-sat.com/Hala_London/index.m3u8
 https://raw.githubusercontent.com/usersawa/Tv/refs/heads/main/playlist.m3u 
 
 
-#EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",الإمارات العربية المتحدة
+#EXTINF:-1 tvg-logo="https://www.crossed-flag-pins.com/animated-flag-gif/gifs/United-Arab-Emirates_240-animated-flag-gifs.gif",بينونة
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/328745.ts
+#EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,الإمارات 
 
-#EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي1
-
-
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/15024.ts
 #EXTINF:-1 tvg-id="AbuDhabiTV.uk" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89c729.png" ,أبوظبي
-
+http://gazal-net2.xyz:8080/live/0566084413/1394394776132208/15023.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5fdc89e570.png" ,الإمارات
 http://sts.mydroon.com:80/9127491274/QDXDbuLzFDYaYbD/69260
 #EXTINF:-1 tvg-id="" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6a88b.png",test
