@@ -828,7 +828,105 @@ https://blc2cr.linkip.org/live/90159_.m3u8
 #EXTINF:-1,Starz Horror 90160
 https://blc2cr.linkip.org/live/90160_.m3u8
 
-#
+#EXTINF:-1 tvg-id="ycn-001" tvg-name="قناة 001",قناة 001
+http://ar.ycncdn.online/live/001/index.m3u8
+#EXTINF:-1 tvg-id="ycn-002" tvg-name="قناة 002",قناة 002
+http://ar.ycncdn.online/live/002/index.m3u8
+#EXTINF:-1 tvg-id="ycn-003" tvg-name="قناة 003",قناة 003
+http://ar.ycncdn.online/live/003/index.m3u8
+#EXTINF:-1 tvg-id="ycn-004" tvg-name="قناة 004",قناة 004
+http://ar.ycncdn.online/live/004/index.m3u8
+#EXTINF:-1 tvg-id="ycn-005" tvg-name="قناة 005",قناة 005
+http://ar.ycncdn.online/live/005/index.m3u8
+#EXTINF:-1 tvg-id="ycn-006" tvg-name="قناة 006",قناة 006
+http://ar.ycncdn.online/live/006/index.m3u8
+#EXTINF:-1 tvg-id="ycn-007" tvg-name="قناة 007",قناة 007
+http://ar.ycncdn.online/live/007/index.m3u8
+#EXTINF:-1 tvg-id="ycn-008" tvg-name="قناة 008",قناة 008
+http://ar.ycncdn.online/live/008/index.m3u8
+#EXTINF:-1 tvg-id="ycn-009" tvg-name="قناة 009",قناة 009
+http://ar.ycncdn.online/live/009/index.m3u8
+#EXTINF:-1 tvg-id="ycn-010" tvg-name="قناة 010",قناة 010
+http://ar.ycncdn.online/live/010/index.m3u8
+#EXTINF:-1 tvg-id="ycn-011" tvg-name="قناة 011",قناة 011
+http://ar.ycncdn.online/live/011/index.m3u8
+#EXTINF:-1 tvg-id="ycn-012" tvg-name="قناة 012",قناة 012
+http://ar.ycncdn.online/live/012/index.m3u8
+#EXTINF:-1 tvg-id="ycn-013" tvg-name="قناة 013",قناة 013
+http://ar.ycncdn.online/live/013/index.m3u8
+#EXTINF:-1 tvg-id="ycn-014" tvg-name="قناة 014",قناة 014
+http://ar.ycncdn.online/live/014/index.m3u8
+#EXTINF:-1 tvg-id="ycn-015" tvg-name="قناة 015",قناة 015
+http://ar.ycncdn.online/live/015/index.m3u8
+#EXTINF:-1 tvg-id="ycn-016" tvg-name="قناة 016",قناة 016
+http://ar.ycncdn.online/live/016/index.m3u8
+#EXTINF:-1 tvg-id="ycn-017" tvg-name="قناة 017",قناة 017
+http://ar.ycncdn.online/live/017/index.m3u8
+#EXTINF:-1 tvg-id="ycn-018" tvg-name="قناة 018",قناة 018
+http://ar.ycncdn.online/live/018/index.m3u8
+#EXTINF:-1 tvg-id="ycn-019" tvg-name="قناة 019",قناة 019
+http://ar.ycncdn.online/live/019/index.m3u8
+#EXTINF:-1 tvg-id="ycn-020" tvg-name="قناة 020",قناة 020
+http://ar.ycncdn.online/live/020/index.m3u8
+#EXTINF:-1 tvg-id="ycn-021" tvg-name="قناة 021",قناة 021
+http://ar.ycncdn.online/live/021/index.m3u8
+#EXTINF:-1 tvg-id="ycn-022" tvg-name="قناة 022",قناة 022
+http://ar.ycncdn.online/live/022/index.m3u8
+#EXTINF:-1 tvg-id="ycn-023" tvg-name="قناة 023",قناة 023
+http://ar.ycncdn.online/live/023/index.m3u8
+#EXTINF:-1 tvg-id="ycn-068" tvg-name="قناة 068",قناة 068
+http://ar.ycncdn.online/live/068/index.m3u8
+#EXTINF:-1 tvg-id="ycn-069" tvg-name="قناة 069",قناة 069
+http://ar.ycncdn.online/live/069/index.m3u8
+#EXTINF:-1 tvg-id="ycn-070" tvg-name="قناة 070",قناة 070
+http://ar.ycncdn.online/live/070/index.m3u8
+#EXTINF:-1 tvg-id="ycn-071" tvg-name="قناة 071",قناة 071
+http://ar.ycncdn.online/live/071/index.m3u8
+#EXTINF:-1 tvg-id="ycn-072" tvg-name="قناة 072",قناة 072
+http://ar.ycncdn.online/live/072/index.m3u8
+#EXTINF:-1 tvg-id="ycn-073" tvg-name="قناة 073",قناة 073
+http://ar.ycncdn.online/live/073/index.m3u8
+#EXTINF:-1 tvg-id="ycn-074" tvg-name="قناة 074",قناة 074
+http://ar.ycncdn.online/live/074/index.m3u8
+#EXTINF:-1 tvg-id="ycn-075" tvg-name="قناة 075",قناة 075
+http://ar.ycncdn.online/live/075/index.m3u8
+#EXTINF:-1 tvg-id="ycn-076" tvg-name="قناة 076",قناة 076
+http://ar.ycncdn.online/live/076/index.m3u8
+#EXTINF:-1 tvg-id="ycn-077" tvg-name="قناة 077",قناة 077
+http://ar.ycncdn.online/live/077/index.m3u8
+#EXTINF:-1 tvg-id="ycn-078" tvg-name="قناة 078",قناة 078
+http://ar.ycncdn.online/live/078/index.m3u8
+#EXTINF:-1 tvg-id="ycn-079" tvg-name="قناة 079",قناة 079
+http://ar.ycncdn.online/live/079/index.m3u8
+#EXTINF:-1 tvg-id="ycn-080" tvg-name="قناة 080",قناة 080
+http://ar.ycncdn.online/live/080/index.m3u8
+#EXTINF:-1 tvg-id="ycn-081" tvg-name="قناة 081",قناة 081
+http://ar.ycncdn.online/live/081/index.m3u8
+#EXTINF:-1 tvg-id="ycn-082" tvg-name="قناة 082",قناة 082
+http://ar.ycncdn.online/live/082/index.m3u8
+#EXTINF:-1 tvg-id="ycn-083" tvg-name="قناة 083",قناة 083
+http://ar.ycncdn.online/live/083/index.m3u8
+#EXTINF:-1 tvg-id="ycn-084" tvg-name="قناة 084",قناة 084
+http://ar.ycncdn.online/live/084/index.m3u8
+#EXTINF:-1 tvg-id="ycn-085" tvg-name="قناة 085",قناة 085
+http://ar.ycncdn.online/live/085/index.m3u8
+#EXTINF:-1 tvg-id="ycn-086" tvg-name="قناة 086",قناة 086
+http://ar.ycncdn.online/live/086/index.m3u8
+#EXTINF:-1 tvg-id="ycn-087" tvg-name="قناة 087",قناة 087
+http://ar.ycncdn.online/live/087/index.m3u8
+#EXTINF:-1 tvg-id="ycn-088" tvg-name="قناة 088",قناة 088
+http://ar.ycncdn.online/live/088/index.m3u8
+#EXTINF:-1 tvg-id="ycn-089" tvg-name="قناة 089",قناة 089
+http://ar.ycncdn.online/live/089/index.m3u8
+#EXTINF:-1 tvg-id="ycn-090" tvg-name="قناة 090",قناة 090
+http://ar.ycncdn.online/live/090/index.m3u8
+#EXTINF:-1 tvg-id="ycn-091" tvg-name="قناة 091",قناة 091
+http://ar.ycncdn.online/live/091/index.m3u8
+#EXTINF:-1 tvg-id="ycn-092" tvg-name="قناة 092",قناة 092
+http://ar.ycncdn.online/live/092/index.m3u8
+#EXTINF:-1 tvg-id="ycn-093" tvg-name="قناة 093",قناة 093
+http://ar.ycncdn.online/live/093/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dmi.gov.ae/content/dam/corporate/icons/DubaiSports-Logo-DMI.png" ,دبي الرياضية 1
